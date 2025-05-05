@@ -30,14 +30,14 @@ This project aims to detect the presence and severity of a gas leak and provide 
 ![badge](https://img.shields.io/badge/Adafruit_LiquidCrystal-%23A6A6A6.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Assemble Diagram
-![schema](./aseemble.png)
+![schema](./assets/aseemble.png)
 
 ### How to Run 👈
 - Clone the repository using 
     ```bash
     git clone https://github.com/TahsinAyman/gas_detector_alarming_system.git
     ```
-- Assemble the hardware components as per the [schema diagram](./aseemble.png) provided in the repository.
+- Assemble the hardware components as per the [schema diagram](./assets/aseemble.png) provided in the repository.
 - Use 4 kΩ on the Gas sensor and the rest on LEDs.
 - Install the Adafruit LiquidCrystal library in the Arduino IDE.
 - Open the Arduino IDE and load the code from the [file](./src/main.ino) provided on repository.
