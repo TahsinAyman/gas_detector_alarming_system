@@ -1,4 +1,4 @@
-# 🌄 RFM Analysis
+# 🌄 Gas Detector Alarming System
 
 ![Contr IMage](./assets/contributions.svg)
 
